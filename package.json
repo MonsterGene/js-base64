@@ -1,0 +1,23 @@
+{
+  "name": "js-base64",
+  "version": "0.0.1",
+  "description": "base64 encode by javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MonsterGene/js-base64.git"
+  },
+  "keywords": [
+    "base64",
+    "javascript"
+  ],
+  "author": "Monster Gene",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MonsterGene/js-base64/issues"
+  },
+  "homepage": "https://github.com/MonsterGene/js-base64#readme"
+}
